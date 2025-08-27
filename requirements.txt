@@ -1,2 +1,1 @@
-python-telegram-bot==20.3
-requests
+# Şimdilik boş bırakıyoruz, test için paket yüklemiyoruz
